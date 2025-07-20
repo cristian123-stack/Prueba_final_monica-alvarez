@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.portada {
+    color: rgb(252, 253, 253);
+    height: 8em;
+    padding: 5em;
+    font-size: 1em;
+    background-image: url('../img/portadablackpink.png');
+    background-size: 90% 190%;
+    background-position: center;
+    padding-top: 50px;
+}
+
+.portada h1 {
+    margin: 0px;
+    font-weight: 400;
+}
+
+.productos {
+    width: 80%;
+    margin: auto;
+}
+
+.productos td {
+    width: 40%;
+    padding: 2em;
+}
+
+.productos img {
+    width: 50%;
+    border: solid 1px #0f0007;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: auto;
+
+}
+
+.footer {
+    height: 2em;
+    line-height: 2em;
+    background-color: rgb(202, 77, 171);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+
+}
